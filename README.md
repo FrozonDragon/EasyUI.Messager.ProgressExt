@@ -1,9 +1,9 @@
 # EasyUI.Messager.ProgressExt
-A improvement on Messager component of EasyUI framework. New option to show endless Progressbar
+A improvement on Progressbar component of EasyUI framework. 
 
-When using Messager with progressbar of EasyUI framework to indicate the background work is on-going, it is hard and troublesome to tell user that loading is 100% completed. 
+When using Messager with progressbar of EasyUI framework to indicate the background work is on-going, it is no need to tell user exact percentage. Most of time, we just use gif image file as an indicator.
 
-Hence, need the progressbar to be endless looping before .ajax done is triggerred. 
+Since messager already integrates with progress options, what need to do is to show the endless looping before .ajax is completed. 
 
 ## How to use
 
