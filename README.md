@@ -5,4 +5,4 @@ When using Messager with progressbar of EasyUI framework to indicate the backgro
 
 Hence, need the progressbar to be endless looping before .ajax done is triggerred. 
 
-![Alt text](demo/demo.gif?raw=true "Result")
+![Alt text](demo.gif?raw=true "Result")
