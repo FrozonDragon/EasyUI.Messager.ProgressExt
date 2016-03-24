@@ -8,8 +8,8 @@ Hence, need the progressbar to be endless looping before .ajax done is triggerre
 ## How to use
 
 ```javascript
-<script type="text/javascript" src="./easyui/jquery.easyui.min.js"></script>
-<script type="text/javascript" src="./lib/easyui/custom/jquery.progressbar.custom.js"></script>
+<script type="text/javascript" src="../lib/easyui/jquery.easyui.min.js"></script>
+<script type="text/javascript" src="../lib/easyui/custom/jquery.progressbar.custom.js"></script>
 ```
 
 ```javascript
